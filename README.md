@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Fisher 🎣, a computer science student a The University of Waterloo!
 
 <!--
 **BrodyFisher/BrodyFisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
