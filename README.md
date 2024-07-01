@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Fisher 🎣, a computer science student a The University of Waterloo!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrodyFisher&layout=compact&theme=radical)
 <!--
 **BrodyFisher/BrodyFisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
